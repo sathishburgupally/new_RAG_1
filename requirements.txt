@@ -1,0 +1,10 @@
+streamlit
+langchain
+pyttsx3
+langchain-openai
+openai
+playsound
+langchain
+faiss-cpu
+pypdf
+langchain-community
